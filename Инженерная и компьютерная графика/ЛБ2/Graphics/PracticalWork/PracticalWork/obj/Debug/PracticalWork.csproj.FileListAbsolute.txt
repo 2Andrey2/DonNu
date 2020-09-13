@@ -1,0 +1,10 @@
+D:\С#\Учеба\Graphics\PracticalWork\PracticalWork\bin\Debug\PracticalWork.exe.config
+D:\С#\Учеба\Graphics\PracticalWork\PracticalWork\bin\Debug\PracticalWork.exe
+D:\С#\Учеба\Graphics\PracticalWork\PracticalWork\bin\Debug\PracticalWork.pdb
+D:\С#\Учеба\Graphics\PracticalWork\PracticalWork\obj\Debug\PracticalWork.csprojAssemblyReference.cache
+D:\С#\Учеба\Graphics\PracticalWork\PracticalWork\obj\Debug\PracticalWork.MainForm.resources
+D:\С#\Учеба\Graphics\PracticalWork\PracticalWork\obj\Debug\PracticalWork.Properties.Resources.resources
+D:\С#\Учеба\Graphics\PracticalWork\PracticalWork\obj\Debug\PracticalWork.csproj.GenerateResource.cache
+D:\С#\Учеба\Graphics\PracticalWork\PracticalWork\obj\Debug\PracticalWork.csproj.CoreCompileInputs.cache
+D:\С#\Учеба\Graphics\PracticalWork\PracticalWork\obj\Debug\PracticalWork.exe
+D:\С#\Учеба\Graphics\PracticalWork\PracticalWork\obj\Debug\PracticalWork.pdb

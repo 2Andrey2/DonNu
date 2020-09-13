@@ -1,0 +1,29 @@
+D:\С#\Учеба\Graphics\PracticalWork\PracticalWork\bin\Debug\PracticalWork.exe.config
+D:\С#\Учеба\Graphics\PracticalWork\PracticalWork\bin\Debug\PracticalWork.exe
+D:\С#\Учеба\Graphics\PracticalWork\PracticalWork\bin\Debug\PracticalWork.pdb
+D:\С#\Учеба\Graphics\PracticalWork\PracticalWork\obj\Debug\PracticalWork2.csprojAssemblyReference.cache
+D:\С#\Учеба\Graphics\PracticalWork\PracticalWork\obj\Debug\PracticalWork.MainForm.resources
+D:\С#\Учеба\Graphics\PracticalWork\PracticalWork\obj\Debug\PracticalWork.Properties.Resources.resources
+D:\С#\Учеба\Graphics\PracticalWork\PracticalWork\obj\Debug\PracticalWork2.csproj.GenerateResource.cache
+D:\С#\Учеба\Graphics\PracticalWork\PracticalWork\obj\Debug\PracticalWork2.csproj.CoreCompileInputs.cache
+D:\С#\Учеба\Graphics\PracticalWork\PracticalWork\obj\Debug\PracticalWork.exe
+D:\С#\Учеба\Graphics\PracticalWork\PracticalWork\obj\Debug\PracticalWork.pdb
+K:\ДонНУ\Инженерная и компьютерная графика\ЛБ2\Graphics\PracticalWork\PracticalWork\bin\Debug\PracticalWork.exe.config
+K:\ДонНУ\Инженерная и компьютерная графика\ЛБ2\Graphics\PracticalWork\PracticalWork\obj\Debug\PracticalWork.exe
+K:\ДонНУ\Инженерная и компьютерная графика\ЛБ2\Graphics\PracticalWork\PracticalWork\obj\Debug\PracticalWork.pdb
+K:\ДонНУ\Инженерная и компьютерная графика\ЛБ2\Graphics\PracticalWork\PracticalWork\bin\Debug\PracticalWork.exe
+K:\ДонНУ\Инженерная и компьютерная графика\ЛБ2\Graphics\PracticalWork\PracticalWork\bin\Debug\PracticalWork.pdb
+K:\ДонНУ\Инженерная и компьютерная графика\ЛБ2\Graphics\PracticalWork\PracticalWork\bin\Debug\mscorlib.dll
+K:\ДонНУ\Инженерная и компьютерная графика\ЛБ2\Graphics\PracticalWork\PracticalWork\bin\Debug\System.Net.Http.dll
+K:\ДонНУ\Инженерная и компьютерная графика\ЛБ2\Graphics\PracticalWork\PracticalWork\bin\Debug\System.Net.Http.xml
+K:\ДонНУ\Инженерная и компьютерная графика\ЛБ2\Graphics\PracticalWork\PracticalWork\bin\Debug\ru\mscorlib.resources.dll
+K:\ДонНУ\Инженерная и компьютерная графика\ЛБ2\Graphics\PracticalWork\PracticalWork\bin\Debug\ru\System.Net.Http.resources.dll
+K:\ДонНУ\Инженерная и компьютерная графика\ЛБ2\Graphics\PracticalWork\PracticalWork\bin\Debug\normidna.nlp
+K:\ДонНУ\Инженерная и компьютерная графика\ЛБ2\Graphics\PracticalWork\PracticalWork\bin\Debug\normnfc.nlp
+K:\ДонНУ\Инженерная и компьютерная графика\ЛБ2\Graphics\PracticalWork\PracticalWork\bin\Debug\normnfd.nlp
+K:\ДонНУ\Инженерная и компьютерная графика\ЛБ2\Graphics\PracticalWork\PracticalWork\bin\Debug\normnfkc.nlp
+K:\ДонНУ\Инженерная и компьютерная графика\ЛБ2\Graphics\PracticalWork\PracticalWork\bin\Debug\normnfkd.nlp
+K:\ДонНУ\Инженерная и компьютерная графика\ЛБ2\Graphics\PracticalWork\PracticalWork\obj\Debug\PracticalWork2.csprojResolveAssemblyReference.cache
+K:\ДонНУ\Инженерная и компьютерная графика\ЛБ2\Graphics\PracticalWork\PracticalWork\obj\Debug\PracticalWork.MainForm.resources
+K:\ДонНУ\Инженерная и компьютерная графика\ЛБ2\Graphics\PracticalWork\PracticalWork\obj\Debug\PracticalWork.Properties.Resources.resources
+K:\ДонНУ\Инженерная и компьютерная графика\ЛБ2\Graphics\PracticalWork\PracticalWork\obj\Debug\PracticalWork2.csproj.GenerateResource.Cache
