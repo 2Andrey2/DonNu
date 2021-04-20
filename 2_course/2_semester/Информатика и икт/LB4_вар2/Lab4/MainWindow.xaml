@@ -1,0 +1,109 @@
+﻿<Window x:Class="Lab4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab4"
+        mc:Ignorable="d"
+        Background="White"
+        Title="TASK 1" Height="592" Width="800">
+    <Window.Resources>
+        <Style x:Key="MyButton" TargetType="Button">
+            <Setter Property="OverridesDefaultStyle" Value="True" />
+            <Setter Property="Cursor" Value="Hand" />
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Name="border" BorderThickness="0" BorderBrush="Black" Background="{TemplateBinding Background}">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Opacity" Value="0.5" />
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+    <Grid Margin="0,0,-26,-16">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="350"></RowDefinition>
+            <RowDefinition Height="116*" ></RowDefinition>
+            <RowDefinition Height="300"></RowDefinition>
+            <RowDefinition Height="18*"/>
+        </Grid.RowDefinitions>
+        <TextBlock Margin="348,24,0,291" HorizontalAlignment="Left"
+                   Foreground="#FF00138B"  Text="TASK 1" FontSize="30" FontFamily="Gotic" FontWeight="Bold"/>
+        <DataGrid Name="dataGrid1"
+                  AutoGenerateColumns="True" 
+                  Background="#ececec" BorderBrush="Transparent"
+                  Grid.Row="0" Margin="1,77,36,242" Grid.RowSpan="3" >
+
+            <DataGrid.Style>
+                <Style TargetType="DataGrid">
+                    <Setter Property="AlternatingRowBackground" Value="MediumPurple"/>
+                    <Setter Property="Foreground" Value="#ececec"/>
+                    <Setter Property="RowBackground" Value="#222831"/>
+                </Style>
+            </DataGrid.Style>
+        </DataGrid>
+        <Button FontSize="15" Foreground="#ececec"
+                Background="#FF0F1763" Content="2"  
+                Width="40" Height="40"
+                HorizontalAlignment="Left"
+                Margin="42,125,0,135"
+                BorderBrush="Transparent"
+                Style="{StaticResource MyButton}" Click="Button_Click_1" Grid.Row="2">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="100"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+        <Button FontSize="15" Foreground="#ececec"
+                Background="#FF0F1763" Content="3"  
+                Width="40" Height="40"
+                HorizontalAlignment="Left"
+                Margin="109,125,0,135"
+                BorderBrush="Transparent"
+                Style="{StaticResource MyButton}" Click="Button_Click_2" Grid.Row="2">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="100"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+        <Button FontSize="15" Foreground="#ececec"
+            Background="#FF0F1763" Content="4"  
+            Width="40" Height="40"
+            HorizontalAlignment="Left"
+            Margin="176,125,0,135"
+            BorderBrush="Transparent" Click="Button_Click_3" Grid.Row="2"
+            >
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="100"/>
+                </Style>
+            </Button.Resources>
+            <Button.Style>
+                <StaticResource ResourceKey="MyButton"/>
+            </Button.Style>
+        </Button>
+        <Button FontSize="15" Foreground="#ececec"
+                Background="#FF0C0557" Content="PUSH ARRAY" Grid.Row="2"
+                BorderBrush="Transparent"
+                Margin="634,125,36,125" Height="50"
+                Click="Button_Click" Cursor="Hand">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="20"/>
+                </Style>
+            </Button.Resources>
+            <Button.Style>
+                <StaticResource ResourceKey="MyButton"/>
+            </Button.Style>
+        </Button>
+    </Grid>
+</Window>

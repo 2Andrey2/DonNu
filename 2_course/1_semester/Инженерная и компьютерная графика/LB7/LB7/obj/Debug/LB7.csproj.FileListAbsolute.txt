@@ -1,0 +1,27 @@
+C:\Users\Andrey\source\repos\LB7\LB7\bin\Debug\LB7.exe
+C:\Users\Andrey\source\repos\LB7\LB7\bin\Debug\LB7.pdb
+C:\Users\Andrey\source\repos\LB7\LB7\obj\Debug\LB7.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\LB7\LB7\obj\Debug\LB7.Form1.resources
+C:\Users\Andrey\source\repos\LB7\LB7\obj\Debug\LB7.Properties.Resources.resources
+C:\Users\Andrey\source\repos\LB7\LB7\obj\Debug\LB7.csproj.GenerateResource.cache
+C:\Users\Andrey\source\repos\LB7\LB7\obj\Debug\LB7.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\LB7\LB7\obj\Debug\LB7.exe
+C:\Users\Andrey\source\repos\LB7\LB7\obj\Debug\LB7.pdb
+E:\ДонНУ\Инженерная и компьютерная графика\LB7\LB7\bin\Debug\LB7.exe
+E:\ДонНУ\Инженерная и компьютерная графика\LB7\LB7\bin\Debug\LB7.pdb
+E:\ДонНУ\Инженерная и компьютерная графика\LB7\LB7\obj\Debug\LB7.csprojAssemblyReference.cache
+E:\ДонНУ\Инженерная и компьютерная графика\LB7\LB7\obj\Debug\LB7.Form1.resources
+E:\ДонНУ\Инженерная и компьютерная графика\LB7\LB7\obj\Debug\LB7.Properties.Resources.resources
+E:\ДонНУ\Инженерная и компьютерная графика\LB7\LB7\obj\Debug\LB7.csproj.GenerateResource.cache
+E:\ДонНУ\Инженерная и компьютерная графика\LB7\LB7\obj\Debug\LB7.csproj.CoreCompileInputs.cache
+E:\ДонНУ\Инженерная и компьютерная графика\LB7\LB7\obj\Debug\LB7.exe
+E:\ДонНУ\Инженерная и компьютерная графика\LB7\LB7\obj\Debug\LB7.pdb
+C:\Users\Andrey\Source\Repos\2Andrey2\C-Graphics-\LB7\LB7\bin\Debug\LB7.exe
+C:\Users\Andrey\Source\Repos\2Andrey2\C-Graphics-\LB7\LB7\bin\Debug\LB7.pdb
+C:\Users\Andrey\Source\Repos\2Andrey2\C-Graphics-\LB7\LB7\obj\Debug\LB7.csprojAssemblyReference.cache
+C:\Users\Andrey\Source\Repos\2Andrey2\C-Graphics-\LB7\LB7\obj\Debug\LB7.Form1.resources
+C:\Users\Andrey\Source\Repos\2Andrey2\C-Graphics-\LB7\LB7\obj\Debug\LB7.Properties.Resources.resources
+C:\Users\Andrey\Source\Repos\2Andrey2\C-Graphics-\LB7\LB7\obj\Debug\LB7.csproj.GenerateResource.cache
+C:\Users\Andrey\Source\Repos\2Andrey2\C-Graphics-\LB7\LB7\obj\Debug\LB7.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\Source\Repos\2Andrey2\C-Graphics-\LB7\LB7\obj\Debug\LB7.exe
+C:\Users\Andrey\Source\Repos\2Andrey2\C-Graphics-\LB7\LB7\obj\Debug\LB7.pdb

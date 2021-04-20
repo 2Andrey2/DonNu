@@ -1,9 +1,0 @@
-c:\documents and settings\игорь\мои документы\visual studio 2010\Projects\LB3\LB3\bin\Debug\LB3.exe
-c:\documents and settings\игорь\мои документы\visual studio 2010\Projects\LB3\LB3\bin\Debug\LB3.pdb
-c:\documents and settings\игорь\мои документы\visual studio 2010\Projects\LB3\LB3\obj\x86\Debug\ResolveAssemblyReference.cache
-c:\documents and settings\игорь\мои документы\visual studio 2010\Projects\LB3\LB3\obj\x86\Debug\LB3.Form1.resources
-c:\documents and settings\игорь\мои документы\visual studio 2010\Projects\LB3\LB3\obj\x86\Debug\LB3.Properties.Resources.resources
-c:\documents and settings\игорь\мои документы\visual studio 2010\Projects\LB3\LB3\obj\x86\Debug\GenerateResource.read.1.tlog
-c:\documents and settings\игорь\мои документы\visual studio 2010\Projects\LB3\LB3\obj\x86\Debug\GenerateResource.write.1.tlog
-c:\documents and settings\игорь\мои документы\visual studio 2010\Projects\LB3\LB3\obj\x86\Debug\LB3.exe
-c:\documents and settings\игорь\мои документы\visual studio 2010\Projects\LB3\LB3\obj\x86\Debug\LB3.pdb

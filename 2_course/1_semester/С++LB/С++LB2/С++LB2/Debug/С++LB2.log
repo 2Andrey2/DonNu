@@ -1,0 +1,4 @@
+﻿  С++LB2.cpp
+C:\Users\Andrey\source\repos\2Andrey2\visual-studio\С++LB2\С++LB2\Plane.h(102,24): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Andrey\source\repos\2Andrey2\visual-studio\С++LB2\С++LB2\С++LB2.cpp(97,26): warning C4018: <: несоответствие типов со знаком и без знака
+  С++LB2.vcxproj -> C:\Users\Andrey\source\repos\2Andrey2\visual-studio\С++LB2\Debug\С++LB2.exe

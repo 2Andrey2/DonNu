@@ -1,0 +1,10 @@
+F:\Study\Информатика и икт\2021\LB3\LB3\bin\Debug\LB3.exe
+F:\Study\Информатика и икт\2021\LB3\LB3\bin\Debug\LB3.pdb
+F:\Study\Информатика и икт\2021\LB3\LB3\obj\Debug\LB3.csprojAssemblyReference.cache
+F:\Study\Информатика и икт\2021\LB3\LB3\obj\Debug\LB3.Form1.resources
+F:\Study\Информатика и икт\2021\LB3\LB3\obj\Debug\LB3.Properties.Resources.resources
+F:\Study\Информатика и икт\2021\LB3\LB3\obj\Debug\LB3.csproj.GenerateResource.cache
+F:\Study\Информатика и икт\2021\LB3\LB3\obj\Debug\LB3.csproj.CoreCompileInputs.cache
+F:\Study\Информатика и икт\2021\LB3\LB3\obj\Debug\LB3.exe
+F:\Study\Информатика и икт\2021\LB3\LB3\obj\Debug\LB3.pdb
+F:\Study\Информатика и икт\2021\LB3\LB3\obj\Debug\LB3.input.resources

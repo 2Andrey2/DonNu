@@ -1,0 +1,18 @@
+C:\Users\Andrey\source\repos\LR4\LR4\bin\Debug\LR4.exe
+C:\Users\Andrey\source\repos\LR4\LR4\bin\Debug\LR4.pdb
+C:\Users\Andrey\source\repos\LR4\LR4\obj\Debug\LR4.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\LR4\LR4\obj\Debug\LR4.Form1.resources
+C:\Users\Andrey\source\repos\LR4\LR4\obj\Debug\LR4.Properties.Resources.resources
+C:\Users\Andrey\source\repos\LR4\LR4\obj\Debug\LR4.csproj.GenerateResource.cache
+C:\Users\Andrey\source\repos\LR4\LR4\obj\Debug\LR4.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\LR4\LR4\obj\Debug\LR4.exe
+C:\Users\Andrey\source\repos\LR4\LR4\obj\Debug\LR4.pdb
+F:\Study\Компьютерная графика\LR5\LR4\bin\Debug\LR4.exe
+F:\Study\Компьютерная графика\LR5\LR4\bin\Debug\LR4.pdb
+F:\Study\Компьютерная графика\LR5\LR4\obj\Debug\LR4.csprojAssemblyReference.cache
+F:\Study\Компьютерная графика\LR5\LR4\obj\Debug\LR4.Form1.resources
+F:\Study\Компьютерная графика\LR5\LR4\obj\Debug\LR4.Properties.Resources.resources
+F:\Study\Компьютерная графика\LR5\LR4\obj\Debug\LR4.csproj.GenerateResource.cache
+F:\Study\Компьютерная графика\LR5\LR4\obj\Debug\LR4.csproj.CoreCompileInputs.cache
+F:\Study\Компьютерная графика\LR5\LR4\obj\Debug\LR4.exe
+F:\Study\Компьютерная графика\LR5\LR4\obj\Debug\LR4.pdb

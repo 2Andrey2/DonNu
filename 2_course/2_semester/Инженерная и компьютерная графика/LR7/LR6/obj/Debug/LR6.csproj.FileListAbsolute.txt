@@ -1,0 +1,9 @@
+F:\Study\Компьютерная графика\LR6\LR6\bin\Debug\LR6.exe
+F:\Study\Компьютерная графика\LR6\LR6\bin\Debug\LR6.pdb
+F:\Study\Компьютерная графика\LR6\LR6\obj\Debug\LR6.csprojAssemblyReference.cache
+F:\Study\Компьютерная графика\LR6\LR6\obj\Debug\LR6.Properties.Resources.resources
+F:\Study\Компьютерная графика\LR6\LR6\obj\Debug\LR6.csproj.GenerateResource.cache
+F:\Study\Компьютерная графика\LR6\LR6\obj\Debug\LR6.csproj.CoreCompileInputs.cache
+F:\Study\Компьютерная графика\LR6\LR6\obj\Debug\LR6.exe
+F:\Study\Компьютерная графика\LR6\LR6\obj\Debug\LR6.pdb
+F:\Study\Компьютерная графика\LR6\LR6\obj\Debug\LR6.Form1.resources

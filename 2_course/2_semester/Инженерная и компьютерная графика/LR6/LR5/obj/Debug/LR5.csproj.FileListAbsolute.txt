@@ -1,0 +1,9 @@
+F:\Study\Компьютерная графика\LR5\LR5\bin\Debug\LR5.exe
+F:\Study\Компьютерная графика\LR5\LR5\bin\Debug\LR5.pdb
+F:\Study\Компьютерная графика\LR5\LR5\obj\Debug\LR5.csprojAssemblyReference.cache
+F:\Study\Компьютерная графика\LR5\LR5\obj\Debug\LR5.Form1.resources
+F:\Study\Компьютерная графика\LR5\LR5\obj\Debug\LR5.Properties.Resources.resources
+F:\Study\Компьютерная графика\LR5\LR5\obj\Debug\LR5.csproj.GenerateResource.cache
+F:\Study\Компьютерная графика\LR5\LR5\obj\Debug\LR5.csproj.CoreCompileInputs.cache
+F:\Study\Компьютерная графика\LR5\LR5\obj\Debug\LR5.exe
+F:\Study\Компьютерная графика\LR5\LR5\obj\Debug\LR5.pdb

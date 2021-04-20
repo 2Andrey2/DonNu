@@ -1,0 +1,9 @@
+F:\Study\Информатика и икт\2021\LB3\Lb3(Cards)\Lb3(Cards)\bin\Debug\Lb3(Cards).exe
+F:\Study\Информатика и икт\2021\LB3\Lb3(Cards)\Lb3(Cards)\bin\Debug\Lb3(Cards).pdb
+F:\Study\Информатика и икт\2021\LB3\Lb3(Cards)\Lb3(Cards)\obj\x86\Debug\Lb3(Cards).csprojAssemblyReference.cache
+F:\Study\Информатика и икт\2021\LB3\Lb3(Cards)\Lb3(Cards)\obj\x86\Debug\Lb3_Cards_.Form1.resources
+F:\Study\Информатика и икт\2021\LB3\Lb3(Cards)\Lb3(Cards)\obj\x86\Debug\Lb3_Cards_.Properties.Resources.resources
+F:\Study\Информатика и икт\2021\LB3\Lb3(Cards)\Lb3(Cards)\obj\x86\Debug\Lb3(Cards).csproj.GenerateResource.cache
+F:\Study\Информатика и икт\2021\LB3\Lb3(Cards)\Lb3(Cards)\obj\x86\Debug\Lb3(Cards).csproj.CoreCompileInputs.cache
+F:\Study\Информатика и икт\2021\LB3\Lb3(Cards)\Lb3(Cards)\obj\x86\Debug\Lb3(Cards).exe
+F:\Study\Информатика и икт\2021\LB3\Lb3(Cards)\Lb3(Cards)\obj\x86\Debug\Lb3(Cards).pdb

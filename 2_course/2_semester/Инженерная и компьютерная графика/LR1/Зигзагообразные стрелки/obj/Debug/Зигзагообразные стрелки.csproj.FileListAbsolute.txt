@@ -1,0 +1,10 @@
+F:\ИВТ_6\C-SharpLabs-master\C-SharpLabs-master\Лабораторная работа №9(Графика)\Зигзагообразные стрелки\Зигзагообразные стрелки\bin\Debug\Зигзагообразные стрелки.exe.config
+F:\ИВТ_6\C-SharpLabs-master\C-SharpLabs-master\Лабораторная работа №9(Графика)\Зигзагообразные стрелки\Зигзагообразные стрелки\bin\Debug\Зигзагообразные стрелки.exe
+F:\ИВТ_6\C-SharpLabs-master\C-SharpLabs-master\Лабораторная работа №9(Графика)\Зигзагообразные стрелки\Зигзагообразные стрелки\bin\Debug\Зигзагообразные стрелки.pdb
+F:\ИВТ_6\C-SharpLabs-master\C-SharpLabs-master\Лабораторная работа №9(Графика)\Зигзагообразные стрелки\Зигзагообразные стрелки\obj\Debug\Зигзагообразные стрелки.csprojAssemblyReference.cache
+F:\ИВТ_6\C-SharpLabs-master\C-SharpLabs-master\Лабораторная работа №9(Графика)\Зигзагообразные стрелки\Зигзагообразные стрелки\obj\Debug\Зигзагообразные_стрелки.Form1.resources
+F:\ИВТ_6\C-SharpLabs-master\C-SharpLabs-master\Лабораторная работа №9(Графика)\Зигзагообразные стрелки\Зигзагообразные стрелки\obj\Debug\Зигзагообразные_стрелки.Properties.Resources.resources
+F:\ИВТ_6\C-SharpLabs-master\C-SharpLabs-master\Лабораторная работа №9(Графика)\Зигзагообразные стрелки\Зигзагообразные стрелки\obj\Debug\Зигзагообразные стрелки.csproj.GenerateResource.cache
+F:\ИВТ_6\C-SharpLabs-master\C-SharpLabs-master\Лабораторная работа №9(Графика)\Зигзагообразные стрелки\Зигзагообразные стрелки\obj\Debug\Зигзагообразные стрелки.csproj.CoreCompileInputs.cache
+F:\ИВТ_6\C-SharpLabs-master\C-SharpLabs-master\Лабораторная работа №9(Графика)\Зигзагообразные стрелки\Зигзагообразные стрелки\obj\Debug\Зигзагообразные стрелки.exe
+F:\ИВТ_6\C-SharpLabs-master\C-SharpLabs-master\Лабораторная работа №9(Графика)\Зигзагообразные стрелки\Зигзагообразные стрелки\obj\Debug\Зигзагообразные стрелки.pdb

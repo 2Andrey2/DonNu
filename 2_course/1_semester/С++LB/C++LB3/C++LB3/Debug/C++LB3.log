@@ -1,0 +1,13 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (C++LB3.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  CustomExpressionEvaluator.cpp
+  ExpressionEvaluator.cpp
+C:\Users\Andrey\source\repos\2Andrey2\visual-studio\C++LB3\C++LB3\ExpressionEvaluator.cpp(41,24): warning C4018: <: несоответствие типов со знаком и без знака
+  ILoggable.cpp
+  IShuffle.cpp
+  LB3c++.cpp
+  Subtractor.cpp
+C:\Users\Andrey\source\repos\2Andrey2\visual-studio\C++LB3\C++LB3\Subtractor.cpp(12,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Summator.cpp
+C:\Users\Andrey\source\repos\2Andrey2\visual-studio\C++LB3\C++LB3\Summator.cpp(6,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  C++LB3.vcxproj -> C:\Users\Andrey\source\repos\2Andrey2\visual-studio\C++LB3\Debug\C++LB3(zad1).exe

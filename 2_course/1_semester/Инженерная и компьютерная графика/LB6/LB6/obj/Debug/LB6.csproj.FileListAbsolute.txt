@@ -1,0 +1,18 @@
+C:\Users\Andrey\source\repos\LB6\LB6\bin\Debug\LB6.exe
+C:\Users\Andrey\source\repos\LB6\LB6\bin\Debug\LB6.pdb
+C:\Users\Andrey\source\repos\LB6\LB6\obj\Debug\LB6.Form1.resources
+C:\Users\Andrey\source\repos\LB6\LB6\obj\Debug\LB6.Properties.Resources.resources
+C:\Users\Andrey\source\repos\LB6\LB6\obj\Debug\LB6.csproj.GenerateResource.cache
+C:\Users\Andrey\source\repos\LB6\LB6\obj\Debug\LB6.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\LB6\LB6\obj\Debug\LB6.exe
+C:\Users\Andrey\source\repos\LB6\LB6\obj\Debug\LB6.pdb
+C:\Users\Andrey\source\repos\LB6\LB6\obj\Debug\LB6.csprojAssemblyReference.cache
+E:\ДонНУ\Инженерная и компьютерная графика\LB6\LB6\obj\Debug\LB6.csprojAssemblyReference.cache
+E:\ДонНУ\Инженерная и компьютерная графика\LB6\LB6\obj\Debug\LB6.Form1.resources
+E:\ДонНУ\Инженерная и компьютерная графика\LB6\LB6\obj\Debug\LB6.Properties.Resources.resources
+E:\ДонНУ\Инженерная и компьютерная графика\LB6\LB6\obj\Debug\LB6.csproj.GenerateResource.cache
+E:\ДонНУ\Инженерная и компьютерная графика\LB6\LB6\obj\Debug\LB6.csproj.CoreCompileInputs.cache
+E:\ДонНУ\Инженерная и компьютерная графика\LB6\LB6\obj\Debug\LB6.exe
+E:\ДонНУ\Инженерная и компьютерная графика\LB6\LB6\obj\Debug\LB6.pdb
+E:\ДонНУ\Инженерная и компьютерная графика\LB6\LB6\bin\Debug\LB6.exe
+E:\ДонНУ\Инженерная и компьютерная графика\LB6\LB6\bin\Debug\LB6.pdb

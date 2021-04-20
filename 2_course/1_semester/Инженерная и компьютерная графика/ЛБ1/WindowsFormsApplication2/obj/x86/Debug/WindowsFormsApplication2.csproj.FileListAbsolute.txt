@@ -1,0 +1,9 @@
+C:\Users\04-user01\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\04-user01\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\04-user01\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\04-user01\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\04-user01\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\04-user01\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+C:\Users\04-user01\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+K:\ДонНУ\Инженерная и компьютерная графика\ЛБ1\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+K:\ДонНУ\Инженерная и компьютерная графика\ЛБ1\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb

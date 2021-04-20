@@ -1,0 +1,99 @@
+﻿<Window x:Class="Lab4.Task4"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab4"
+        mc:Ignorable="d"
+              Title="Task2" Height="575" Width="800">
+    <Window.Resources>
+        <Style x:Key="MyButton" TargetType="Button">
+            <Setter Property="OverridesDefaultStyle" Value="True" />
+            <Setter Property="Cursor" Value="Hand" />
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Name="border" BorderThickness="0" BorderBrush="Black" Background="{TemplateBinding Background}">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Opacity" Value="0.5" />
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+    <Grid Margin="0,0,-26,-16">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="350"></RowDefinition>
+            <RowDefinition Height="116*" ></RowDefinition>
+            <RowDefinition Height="300"></RowDefinition>
+            <RowDefinition Height="18*"/>
+        </Grid.RowDefinitions>
+        <TextBlock Margin="348,24,0,291" HorizontalAlignment="Left"
+                   Foreground="MediumPurple"  Text="TASK 4" FontSize="30" FontFamily="Gotic" FontWeight="Bold"></TextBlock>
+        <Button FontSize="15" Foreground="#ececec"
+                Background="MediumPurple" Content="1"  
+                Width="40" Height="40"
+                HorizontalAlignment="Left"
+                Margin="52,105,0,155"
+                BorderBrush="Transparent"
+                Style="{StaticResource MyButton}" Click="Button_Click" Grid.Row="2">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="100"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+        <Button FontSize="15" Foreground="#ececec"
+                Background="MediumPurple" Content="2"  
+                Width="40" Height="40"
+                HorizontalAlignment="Left"
+                Margin="119,105,0,155"
+                BorderBrush="Transparent"
+                Style="{StaticResource MyButton}" Click="Button_Click_1" Grid.Row="2">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="100"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+        <Button FontSize="15" Foreground="#ececec"
+            Background="MediumPurple" Content="3"  
+            Width="40" Height="40"
+            HorizontalAlignment="Left"
+            Margin="186,105,0,155"
+            BorderBrush="Transparent" Click="Button_Click_2" Grid.Row="2"
+           >
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="100"/>
+                </Style>
+            </Button.Resources>
+            <Button.Style>
+                <StaticResource ResourceKey="MyButton"/>
+            </Button.Style>
+        </Button>
+        <Button FontSize="15" Foreground="#ececec"
+                Background="MediumPurple" Content="CALCULATE" Grid.Row="2"
+                BorderBrush="Transparent"
+                Margin="609,100,61,150" Height="50" Click="Button_Click_3"
+                >
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="20"/>
+                </Style>
+            </Button.Resources>
+            <Button.Style>
+                <StaticResource ResourceKey="MyButton"/>
+            </Button.Style>
+        </Button>
+        <TextBlock x:Name="Farengate" VerticalAlignment="Top" HorizontalAlignment="Left" Foreground="HotPink" FontFamily="Arial" Margin="186,302,0,0" FontSize="20" FontWeight="Medium" />
+        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Top" Foreground="#30475e" FontFamily="Arial" TextAlignment="Center"
+                   Text="Урожай яблок  в 1990 году составил 20 тонн. &#10;Далее каждые два года урожай
+уменьшался  на 20%.  &#10;Начиная с какого года, будет собрано менее 2 тонн?" FontSize="25" FontWeight="Medium" Height="130" Width="626" RenderTransformOrigin="0.48,0.493" Margin="0,153,0,0" />
+    </Grid>
+</Window>

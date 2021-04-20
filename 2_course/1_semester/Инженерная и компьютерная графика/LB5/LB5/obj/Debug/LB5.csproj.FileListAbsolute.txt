@@ -1,0 +1,19 @@
+H:\STUDENTS\Repin\laba2\LB5\LB5\bin\Debug\LB5.exe.config
+H:\STUDENTS\Repin\laba2\LB5\LB5\bin\Debug\LB5.exe
+H:\STUDENTS\Repin\laba2\LB5\LB5\bin\Debug\LB5.pdb
+H:\STUDENTS\Repin\laba2\LB5\LB5\obj\Debug\LB5.csprojResolveAssemblyReference.cache
+H:\STUDENTS\Repin\laba2\LB5\LB5\obj\Debug\LB5.Form1.resources
+H:\STUDENTS\Repin\laba2\LB5\LB5\obj\Debug\LB5.Properties.Resources.resources
+H:\STUDENTS\Repin\laba2\LB5\LB5\obj\Debug\LB5.csproj.GenerateResource.Cache
+H:\STUDENTS\Repin\laba2\LB5\LB5\obj\Debug\LB5.exe
+H:\STUDENTS\Repin\laba2\LB5\LB5\obj\Debug\LB5.pdb
+E:\ДонНУ\Инженерная и компьютерная графика\LB5\LB5\bin\Debug\LB5.exe.config
+E:\ДонНУ\Инженерная и компьютерная графика\LB5\LB5\bin\Debug\LB5.exe
+E:\ДонНУ\Инженерная и компьютерная графика\LB5\LB5\bin\Debug\LB5.pdb
+E:\ДонНУ\Инженерная и компьютерная графика\LB5\LB5\obj\Debug\LB5.csprojAssemblyReference.cache
+E:\ДонНУ\Инженерная и компьютерная графика\LB5\LB5\obj\Debug\LB5.Form1.resources
+E:\ДонНУ\Инженерная и компьютерная графика\LB5\LB5\obj\Debug\LB5.Properties.Resources.resources
+E:\ДонНУ\Инженерная и компьютерная графика\LB5\LB5\obj\Debug\LB5.csproj.GenerateResource.cache
+E:\ДонНУ\Инженерная и компьютерная графика\LB5\LB5\obj\Debug\LB5.csproj.CoreCompileInputs.cache
+E:\ДонНУ\Инженерная и компьютерная графика\LB5\LB5\obj\Debug\LB5.exe
+E:\ДонНУ\Инженерная и компьютерная графика\LB5\LB5\obj\Debug\LB5.pdb

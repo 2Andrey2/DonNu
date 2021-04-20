@@ -1,0 +1,75 @@
+C:\Users\dimon\Desktop\IKT\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.exe
+C:\Users\dimon\Desktop\IKT\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.deps.json
+C:\Users\dimon\Desktop\IKT\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.runtimeconfig.json
+C:\Users\dimon\Desktop\IKT\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.runtimeconfig.dev.json
+C:\Users\dimon\Desktop\IKT\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.dll
+C:\Users\dimon\Desktop\IKT\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.pdb
+C:\Users\dimon\Desktop\IKT\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.csprojAssemblyReference.cache
+C:\Users\dimon\Desktop\IKT\Lab4\Lab4\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\dimon\Desktop\IKT\Lab4\Lab4\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\dimon\Desktop\IKT\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4_MarkupCompile.cache
+C:\Users\dimon\Desktop\IKT\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4_MarkupCompile.lref
+C:\Users\dimon\Desktop\IKT\Lab4\Lab4\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\dimon\Desktop\IKT\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.g.resources
+C:\Users\dimon\Desktop\IKT\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.AssemblyInfoInputs.cache
+C:\Users\dimon\Desktop\IKT\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.AssemblyInfo.cs
+C:\Users\dimon\Desktop\IKT\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\dimon\Desktop\IKT\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.dll
+C:\Users\dimon\Desktop\IKT\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.pdb
+C:\Users\dimon\Desktop\IKT\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.genruntimeconfig.cache
+C:\Users\dimon\Desktop\IKT\Lab4\Lab4\obj\Debug\netcoreapp3.1\Task2.g.cs
+C:\Users\dimon\Desktop\IKT\Lab4\Lab4\obj\Debug\netcoreapp3.1\Task2.baml
+C:\Users\dimon\Desktop\IKT\Lab4\Lab4\obj\Debug\netcoreapp3.1\Task3.g.cs
+C:\Users\dimon\Desktop\IKT\Lab4\Lab4\obj\Debug\netcoreapp3.1\Task4.g.cs
+C:\Users\dimon\Desktop\IKT\Lab4\Lab4\obj\Debug\netcoreapp3.1\Task3.baml
+C:\Users\dimon\Desktop\IKT\Lab4\Lab4\obj\Debug\netcoreapp3.1\Task4.baml
+C:\Users\dimon\Desktop\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.csprojAssemblyReference.cache
+C:\Users\dimon\Desktop\Lab4\Lab4\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\dimon\Desktop\Lab4\Lab4\obj\Debug\netcoreapp3.1\Task2.g.cs
+C:\Users\dimon\Desktop\Lab4\Lab4\obj\Debug\netcoreapp3.1\Task3.g.cs
+C:\Users\dimon\Desktop\Lab4\Lab4\obj\Debug\netcoreapp3.1\Task4.g.cs
+C:\Users\dimon\Desktop\Lab4\Lab4\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\dimon\Desktop\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4_MarkupCompile.cache
+C:\Users\dimon\Desktop\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4_MarkupCompile.lref
+C:\Users\dimon\Desktop\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.dll
+C:\Users\dimon\Desktop\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.pdb
+C:\Users\dimon\Desktop\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.exe
+C:\Users\dimon\Desktop\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.deps.json
+C:\Users\dimon\Desktop\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.runtimeconfig.json
+C:\Users\dimon\Desktop\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.runtimeconfig.dev.json
+C:\Users\dimon\Desktop\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.dll
+C:\Users\dimon\Desktop\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.pdb
+C:\Users\dimon\Desktop\Lab4\Lab4\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\dimon\Desktop\Lab4\Lab4\obj\Debug\netcoreapp3.1\Task2.baml
+C:\Users\dimon\Desktop\Lab4\Lab4\obj\Debug\netcoreapp3.1\Task3.baml
+C:\Users\dimon\Desktop\Lab4\Lab4\obj\Debug\netcoreapp3.1\Task4.baml
+C:\Users\dimon\Desktop\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.g.resources
+C:\Users\dimon\Desktop\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.AssemblyInfoInputs.cache
+C:\Users\dimon\Desktop\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.AssemblyInfo.cs
+C:\Users\dimon\Desktop\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\dimon\Desktop\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.genruntimeconfig.cache
+F:\Study\Информатика и икт\2021\LB4\Lab4\obj\Debug\netcoreapp3.1\Lab4.csprojAssemblyReference.cache
+F:\Study\Информатика и икт\2021\LB4\Lab4\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+F:\Study\Информатика и икт\2021\LB4\Lab4\obj\Debug\netcoreapp3.1\Task2.g.cs
+F:\Study\Информатика и икт\2021\LB4\Lab4\obj\Debug\netcoreapp3.1\Task3.g.cs
+F:\Study\Информатика и икт\2021\LB4\Lab4\obj\Debug\netcoreapp3.1\Task4.g.cs
+F:\Study\Информатика и икт\2021\LB4\Lab4\obj\Debug\netcoreapp3.1\App.g.cs
+F:\Study\Информатика и икт\2021\LB4\Lab4\obj\Debug\netcoreapp3.1\Lab4_MarkupCompile.cache
+F:\Study\Информатика и икт\2021\LB4\Lab4\obj\Debug\netcoreapp3.1\Lab4_MarkupCompile.lref
+F:\Study\Информатика и икт\2021\LB4\Lab4\obj\Debug\netcoreapp3.1\Lab4.dll
+F:\Study\Информатика и икт\2021\LB4\Lab4\obj\Debug\netcoreapp3.1\Lab4.pdb
+F:\Study\Информатика и икт\2021\LB4\Lab4\bin\Debug\netcoreapp3.1\Lab4.exe
+F:\Study\Информатика и икт\2021\LB4\Lab4\bin\Debug\netcoreapp3.1\Lab4.deps.json
+F:\Study\Информатика и икт\2021\LB4\Lab4\bin\Debug\netcoreapp3.1\Lab4.runtimeconfig.json
+F:\Study\Информатика и икт\2021\LB4\Lab4\bin\Debug\netcoreapp3.1\Lab4.runtimeconfig.dev.json
+F:\Study\Информатика и икт\2021\LB4\Lab4\bin\Debug\netcoreapp3.1\Lab4.dll
+F:\Study\Информатика и икт\2021\LB4\Lab4\bin\Debug\netcoreapp3.1\Lab4.pdb
+F:\Study\Информатика и икт\2021\LB4\Lab4\obj\Debug\netcoreapp3.1\MainWindow.baml
+F:\Study\Информатика и икт\2021\LB4\Lab4\obj\Debug\netcoreapp3.1\Task2.baml
+F:\Study\Информатика и икт\2021\LB4\Lab4\obj\Debug\netcoreapp3.1\Task3.baml
+F:\Study\Информатика и икт\2021\LB4\Lab4\obj\Debug\netcoreapp3.1\Task4.baml
+F:\Study\Информатика и икт\2021\LB4\Lab4\obj\Debug\netcoreapp3.1\Lab4.g.resources
+F:\Study\Информатика и икт\2021\LB4\Lab4\obj\Debug\netcoreapp3.1\Lab4.AssemblyInfoInputs.cache
+F:\Study\Информатика и икт\2021\LB4\Lab4\obj\Debug\netcoreapp3.1\Lab4.AssemblyInfo.cs
+F:\Study\Информатика и икт\2021\LB4\Lab4\obj\Debug\netcoreapp3.1\Lab4.csproj.CoreCompileInputs.cache
+F:\Study\Информатика и икт\2021\LB4\Lab4\obj\Debug\netcoreapp3.1\Lab4.genruntimeconfig.cache

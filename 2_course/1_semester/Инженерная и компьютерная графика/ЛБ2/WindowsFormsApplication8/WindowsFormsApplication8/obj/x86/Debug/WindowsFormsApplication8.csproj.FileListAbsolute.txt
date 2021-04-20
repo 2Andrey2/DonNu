@@ -1,0 +1,9 @@
+H:\ivt-7\laba9\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+H:\ivt-7\laba9\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+H:\ivt-7\laba9\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Debug\WindowsFormsApplication8.Form1.resources
+H:\ivt-7\laba9\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Debug\WindowsFormsApplication8.Properties.Resources.resources
+H:\ivt-7\laba9\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+H:\ivt-7\laba9\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Debug\WindowsFormsApplication8.exe
+H:\ivt-7\laba9\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Debug\WindowsFormsApplication8.pdb
+F:\ДонНУ\Инженерная и компьютерная графика\ЛБ2\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Debug\WindowsFormsApplication8.exe
+F:\ДонНУ\Инженерная и компьютерная графика\ЛБ2\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Debug\WindowsFormsApplication8.pdb

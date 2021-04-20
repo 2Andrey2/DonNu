@@ -1,0 +1,20 @@
+G:\печать\lab10_prog1\lab10_prog1\bin\Debug\lab10_prog1.exe.config
+G:\печать\lab10_prog1\lab10_prog1\bin\Debug\lab10_prog1.exe
+G:\печать\lab10_prog1\lab10_prog1\bin\Debug\lab10_prog1.pdb
+G:\печать\lab10_prog1\lab10_prog1\obj\Debug\lab10_prog1.csprojAssemblyReference.cache
+G:\печать\lab10_prog1\lab10_prog1\obj\Debug\lab10_prog1.Form1.resources
+G:\печать\lab10_prog1\lab10_prog1\obj\Debug\lab10_prog1.Properties.Resources.resources
+G:\печать\lab10_prog1\lab10_prog1\obj\Debug\lab10_prog1.csproj.GenerateResource.cache
+G:\печать\lab10_prog1\lab10_prog1\obj\Debug\lab10_prog1.csproj.CoreCompileInputs.cache
+G:\печать\lab10_prog1\lab10_prog1\obj\Debug\lab10_prog1.exe
+G:\печать\lab10_prog1\lab10_prog1\obj\Debug\lab10_prog1.pdb
+F:\Study\Компьютерная графика\ЛБ2\lab10_prog1\bin\Debug\lab10_prog1.exe.config
+F:\Study\Компьютерная графика\ЛБ2\lab10_prog1\bin\Debug\lab10_prog1.exe
+F:\Study\Компьютерная графика\ЛБ2\lab10_prog1\bin\Debug\lab10_prog1.pdb
+F:\Study\Компьютерная графика\ЛБ2\lab10_prog1\obj\Debug\lab10_prog1.csprojAssemblyReference.cache
+F:\Study\Компьютерная графика\ЛБ2\lab10_prog1\obj\Debug\lab10_prog1.Form1.resources
+F:\Study\Компьютерная графика\ЛБ2\lab10_prog1\obj\Debug\lab10_prog1.Properties.Resources.resources
+F:\Study\Компьютерная графика\ЛБ2\lab10_prog1\obj\Debug\lab10_prog1.csproj.GenerateResource.cache
+F:\Study\Компьютерная графика\ЛБ2\lab10_prog1\obj\Debug\lab10_prog1.csproj.CoreCompileInputs.cache
+F:\Study\Компьютерная графика\ЛБ2\lab10_prog1\obj\Debug\lab10_prog1.exe
+F:\Study\Компьютерная графика\ЛБ2\lab10_prog1\obj\Debug\lab10_prog1.pdb
