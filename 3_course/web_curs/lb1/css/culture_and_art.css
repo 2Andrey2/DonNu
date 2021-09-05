@@ -1,0 +1,184 @@
+* {
+    margin: 0;
+    font-family: 'Montserrat Alternates', sans-serif;
+    box-sizing: border-box;
+ }
+ .post-wrap {
+    max-width: 1120px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+ }
+ .post-item {
+    padding: 10px;
+ }
+ .post-item-wrap {
+    position: relative;
+ }
+ .post-item img {
+    display: block;
+    width: 100%;
+ }
+ .post-item:hover .post-info {
+    opacity: 1;
+ }
+ .post-link {
+    text-decoration: none;
+ }
+ .post-info {
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, .5) 100%);
+    color: white;
+    opacity: 0;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    transition: .5s linear;
+ }
+ .post-meta {
+    text-transform: uppercase;
+    line-height: 18px;
+    font-weight: 500;
+    font-size: 11px;
+    padding: 0 0 10px 15px;
+    margin-bottom: 15px;
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+    border-bottom: 1px solid #ff7760;
+ }
+ .post-date:after {
+    content: "\2022";
+    margin: 0 6px;
+    font-size: 14px;
+ }
+ .post-title {
+    padding: 0 15px;
+    font-weight: 600;
+    margin-bottom: 15px;
+ }
+ @media (min-width: 768px) {
+    .post-item {
+       flex-basis: 50%;
+       flex-shrink: 0;
+    }
+ }
+ @media (min-width: 960px) {
+    .post-item {
+       flex-basis: 33.333333333%;
+    }
+ }
+
+ .post-wrap {
+    max-width: 1120px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+ }
+ .post-item {
+    padding: 15px;
+    cursor: pointer;
+ }
+ .post-item * {
+    transition: .3s linear;
+ }
+ .item-content {
+    background: #306f77;
+    padding: 40px;
+ }
+ .item-icon {
+    margin-bottom: 20px;
+ }
+ .item-icon:before {
+    content: "";
+    font-family: FontAwesome;
+    color: #F09EA3;
+    font-size: 50px;
+    line-height: 1;
+ }
+ .item-icon.photo:before {
+    content: url("https://img.icons8.com/color-glass/48/000000/modern-art.png");
+ }
+ .item-icon.video:before {
+    content: url("https://img.icons8.com/ios-filled/50/000000/add-song.png");
+ }
+ .item-icon.gift:before {
+    content: url("https://img.icons8.com/ios/50/000000/ballroom-dance.png");
+ }
+ .item-icon.group:before {
+    content: url("https://img.icons8.com/ios/50/000000/filled-circle.png");
+ }
+ .item-icon.tree:before {
+    content: url("https://img.icons8.com/ios-filled/50/000000/envato.png");
+ }
+ .item-icon.anchor:before {
+    content: url("https://img.icons8.com/material-sharp/24/000000/bonsai.png");
+ }
+ .post-item:hover .item-icon, .post-item:hover .item-body h3, .post-item:hover .item-body p {
+    transform: translateY(-8px);
+ }
+ .item-body {
+    color: #F5E2CD;
+    font-size: 14px;
+ }
+ .item-body h3 {
+    font-weight: 500;
+    margin-bottom: 15px;
+    transition-delay: .05s;
+ }
+ .item-body p {
+    transition-delay: .1s;
+ }
+ .item-footer {
+    padding-top: 15px;
+ }
+ .link {
+    text-decoration: none;
+    display: inline-block;
+    overflow: hidden;
+    position: relative;
+    padding-right: 30px;
+    font-size: 12px;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: #F5E2CD;
+ }
+ .link:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    bottom: 0;
+    height: .125rem;
+    margin: auto;
+    background: #F09EA3;
+    transform: scaleX(.2);
+    transform-origin: left center;
+    z-index: 0;
+    transition: .6s cubic-bezier(.6, .01, 0, 1);
+ }
+ .link span {
+    display: inline-block;
+    position: relative;
+    transform: translateX(-200%);
+    transition: .6s cubic-bezier(.6, .01, 0, 1);
+ }
+ .post-item:hover .link span {
+    transform: translateX(0%);
+ }
+ .post-item:hover .link:before {
+    transform-origin: right center;
+ }
+ @media (min-width: 768px) {
+    .post-item {
+       flex-basis: 50%;
+       flex-shrink: 0;
+    }
+ }
+ @media (min-width: 960px) {
+    .post-item {
+       flex-basis: 33.333333333%;
+    }
+ }
