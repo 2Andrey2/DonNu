@@ -26,16 +26,16 @@
                 <textarea rows="3" id="address" required></textarea>
             </div>
             <div class="form-row-icon">
-                <i class="fa fa-tty"></i>
+                <i style="content: url('https://img.icons8.com/ios-filled/50/000000/phone.png');" class="fa fa-envelope-o"></i>
                 <input type="text" id="phone" required>
             </div>
             <div class="form-row-icon">
-                <i class="fa fa-envelope-o"></i>
+                <i style="content: url('https://img.icons8.com/ios/50/000000/love-letter.png');" class="fa fa-envelope-o"></i>
                 <input type="email" id="email" required>
             </div>
             <div class="form-row-icon">
-                <i class="fa fa-paper-plane-o"></i>
-                <input type="submit" value="">
+                <i style="content: url('https://img.icons8.com/ios-filled/50/000000/airplane-take-off.png');" class="fa fa-paper-plane-o"></i>
+                <input type="submit" value="Отправить">
             </div>
         </div>
     </form>
