@@ -1,0 +1,72 @@
+.blok1
+{
+    width: fit-content;
+    height: fit-content;
+    padding: 30px;
+    background: #11111180;
+    margin: 50px;
+}
+.blok1 .line{
+    background: black;
+    width: 125px;
+    height: 5px;
+    border-radius: 50px;
+    margin: 20px;
+}
+
+.blok1 .one{
+    -webkit-animation-name: ani_one;
+    -webkit-animation-duration: 4s;
+}
+.blok1 .two{
+    -webkit-animation-name: ani_two, from-top;
+    -webkit-animation-duration: 4s;
+}
+.blok1 .three{
+    -webkit-animation-name: ani_three;
+    -webkit-animation-duration: 4s;
+}
+@-webkit-keyframes ani_one {
+    from {-webkit-transform: translate(0,0) rotate(0deg);}
+    to {-webkit-transform: translate(0,25px) rotate(-45deg);}
+}
+@-webkit-keyframes ani_two {
+    from {-webkit-transform: translate(0,0);}
+    to {-webkit-transform: translate(200px,0);}
+}
+@-webkit-keyframes ani_three {
+    from {-webkit-transform: translate(0,0) rotate(0deg);}
+    to {-webkit-transform: translate(0,-25px) rotate(45deg);}
+}
+
+@-webkit-keyframes from-top {
+    0% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 0;
+    }
+  }
+@-webkit-keyframes from-top1 {
+0% {
+    opacity: 0;
+}
+100% {
+    opacity: 1;
+}
+}
+
+  .circle {
+    fill: #456bd900;
+    stroke: #000000;
+    stroke-width: 0.1875em;
+    -webkit-animation-name: from-top1;
+    -webkit-animation-duration: 4s;
+  }
+  .circlepoz
+  {
+    top: 101px;
+    left: 86px;
+    position: absolute;
+  }
+

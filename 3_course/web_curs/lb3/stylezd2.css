@@ -1,0 +1,54 @@
+.mass{
+
+}
+
+.mass .circle1
+{
+    fill: #456BD9;
+    stroke-width: 0.1875em;
+    -webkit-animation-name: one;
+    -webkit-animation-duration: 10s;
+}
+.mass .circle2
+{
+    fill: #456BD9;
+    stroke-width: 0.1875em;
+    -webkit-animation-name: too;
+    -webkit-animation-duration: 10s;
+}
+
+@-webkit-keyframes one {
+    0%{
+        -webkit-transform: translate(0,0);
+    }
+    25%{
+        -webkit-transform: translate(50px,0);
+    }
+    50%{
+        -webkit-transform: translate(0,0);
+    }
+    75%{
+        -webkit-transform: translate(50px,0);
+    }
+    100%{
+        -webkit-transform: translate(0,0);
+    }
+}
+
+@-webkit-keyframes too {
+    0%{
+        -webkit-transform: translate(0,0);
+    }
+    25%{
+        -webkit-transform: translate(-50px,0);
+    }
+    50%{
+        -webkit-transform: translate(0,0);
+    }
+    75%{
+        -webkit-transform: translate(-50px,0);
+    }
+    100%{
+        -webkit-transform: translate(0,0);
+    }
+}

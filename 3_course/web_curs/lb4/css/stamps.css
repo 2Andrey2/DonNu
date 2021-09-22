@@ -1,0 +1,219 @@
+.tabs {
+    display: flex;
+    flex-direction: column;
+    }
+    
+    .tabs__links {
+    display: flex;
+    width: 100%;
+    overflow-x: auto;
+    overflow-y: hidden;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    order: 0;
+    white-space: nowrap;
+    background-color: #fff;
+    border: 1px solid #e3f2fd;
+    box-shadow: 0 2px 4px 0 #e3f2fd;
+    }
+    
+    .tabs__links>a {
+        display: inline-block;
+        text-decoration: none;
+        padding: 6px 10px;
+        text-align: center;
+        color: #6d4c40;
+    }
+    
+    .tabs__links>a:hover {
+    background-color: rgba(227, 242, 253, 0.3);
+    }
+    
+    .tabs>#content-1:target~.tabs__links>a[href="#content-1"],
+    .tabs>#content-2:target~.tabs__links>a[href="#content-2"],
+    .tabs>#content-3:target~.tabs__links>a[href="#content-3"] {
+    background-color: #bbdefb;
+    cursor: default;
+    }
+    
+    .tabs>div:not(.tabs__links) {
+    display: none;
+    order: 1;
+    }
+    
+    .tabs>div:target {
+    display: flex;
+    }
+
+    .contents
+    {
+        background: #f16d7f63;
+        border-radius: 50px;
+        margin: 10px;
+        text-align: center;
+    }
+
+    .contents p
+    {
+        margin: auto;
+        width: 15%;
+        color: #000000;
+    }
+
+    .contents img
+    {
+        width: 60%;
+        border-radius: 20px;
+        margin: 20px;
+    }
+
+    .mybtn
+    {
+        text-decoration: none;
+        display: inline-block;
+        color: white;
+        padding: 20px 30px;
+        margin: 10px 20px;
+        border-radius: 10px;
+        font-family: 'Montserrat', sans-serif;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        background-image: linear-gradient(to right, #fac6cd 0%, #ec2828 51%, #fac6cd 100%);
+        background-size: 200% auto;
+        box-shadow: 0 0 20px rgb(0 0 0 / 10%);
+        transition: .5s;
+    }
+    
+
+
+
+
+
+
+
+/* Модальный (фон) */
+.modal {
+  display: none; /* Скрыто по умолчанию */
+  position: fixed; /* Оставаться на месте */
+  z-index: 1; /* Сидеть на вершине */
+  padding-top: 100px; /* Расположение коробки */
+  left: 0;
+  top: 0;
+  width: 100%; /* Полная ширина */
+  height: 100%; /* Полная высота */
+  overflow: auto; /* Включите прокрутку, если это необходимо */
+  background-color: rgb(0,0,0); /* Цвет запасной вариант  */
+  background-color: rgba(0,0,0,0.4); /*Черный с непрозрачностью */
+}
+
+/* Модальное содержание */
+.modal-content {
+  position: relative;
+  background-color: #fefefe;
+  margin: auto;
+  padding: 0;
+  border: 1px solid #888;
+  width: 80%;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+  -webkit-animation-name: animatetop;
+  -webkit-animation-duration: 0.4s;
+  animation-name: animatetop;
+  animation-duration: 0.4s
+}
+
+/* Добавить анимацию */
+@-webkit-keyframes animatetop {
+  from {top:-300px; opacity:0} 
+  to {top:0; opacity:1}
+}
+
+@keyframes animatetop {
+  from {top:-300px; opacity:0}
+  to {top:0; opacity:1}
+}
+
+/* Кнопка закрытия */
+.close {
+  color: white;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.modal-header {
+    padding: 2px 16px;
+    background-color: #e2707f;
+    color: white;
+}
+
+.modal-body {padding: 2px 16px;}
+
+.modal-footer {
+    padding: 2px 16px;
+    background-color: #e2707f;
+    color: white;
+}
+
+.modal-content p
+{
+    font-family: 'Open Sans', sans-serif;
+    position: relative;
+    color: #000000;
+    font-size: 3em;
+    font-weight: normal;
+    line-height: 1;
+    padding: 10px 0;
+    margin: 0;
+    display: inline-block;
+}
+
+
+
+
+.accordion {
+    margin: 5px;
+    background-color: #fac6cdb0;
+    color: #777;
+    cursor: pointer;
+    padding: 16px;
+    width: 50%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 18px;
+    transition: 0.5s;
+}
+
+.active, .accordion:hover {
+    background-color: #607D8B;
+}
+
+.accordion:after {
+    content: '\002B';
+    color: #fff;
+  font-size: 18px;
+    font-weight: bold;
+    float: right;
+    margin-left: 5px;
+}
+
+.active:after {
+    content: "\2212";
+}
+
+.panel {
+    padding: 0 18px;
+  color: #212121;
+    background-color: #fff;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease-out;
+}
