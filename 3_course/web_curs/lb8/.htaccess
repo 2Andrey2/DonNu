@@ -1,0 +1,5 @@
+RewriteEngine On
+      RewriteRule ^page/([0-9]+)/$ /Table/goto/10/$1/Not
+      RewriteCond %{REQUEST_FILENAME} !-f
+      RewriteCond %{REQUEST_FILENAME} !-d
+      RewriteRule .* index.php [L]

@@ -1,0 +1,22 @@
+.divimg
+{
+    margin: 10px;
+    width: 30%;
+}
+.divimg .img
+{
+    width: 100%;
+    box-shadow: 0px 0px 0px 2px rgb(0 0 0 / 47%), 0px 0px 0px 4px #fff, 6px 6px 8px 5px #555;
+    border-radius: 10px;
+}
+#gallery
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+.title
+{
+    color: white;
+    text-align: center;
+}
+
